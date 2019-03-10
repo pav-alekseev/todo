@@ -1,0 +1,28 @@
+.todo-list-item {
+  font-size: 1.25rem;
+}
+
+.todo-list-item span:focus {
+  outline: none;
+}
+
+.todo-list-item button {
+  width: 35px;
+  margin: .25rem;
+}
+
+.todo-list-item-label {
+  margin-left: 1.25rem;
+  line-height: 2.5rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.todo-list-item.done .todo-list-item-label {
+  text-decoration: line-through;
+}
+
+.todo-list-item.important .todo-list-item-label {
+  font-weight: bold;
+  color: steelblue;
+}
