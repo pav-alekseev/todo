@@ -1,4 +1,4 @@
-# Todo
+# todo
 The project is a simple Todo List written in React
 ![App screenshot](screenshots/todo-list.png)
 
