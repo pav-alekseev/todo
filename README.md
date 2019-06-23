@@ -5,5 +5,8 @@ The project is a simple Todo List written in React
 ## Features
 Add, delete, filter, search and mark tasks important
 
+## Project Status
+The project is completed.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
